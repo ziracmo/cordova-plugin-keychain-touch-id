@@ -22,12 +22,10 @@
     "ecosystem:cordova",
     "cordova-ios"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
-  ],
+  "engines": {
+    "name": "cordova",
+    "version": ">=3.0.0"
+  },
   "author": "S.J.Hoeksma",
   "license": "Apache-2.0",
   "bugs": {
@@ -37,5 +35,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "contributors": [],
+  "dependencies": {}
 }
